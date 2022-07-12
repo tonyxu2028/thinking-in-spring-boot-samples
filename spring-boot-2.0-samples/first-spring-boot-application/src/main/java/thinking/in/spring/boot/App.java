@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  * Hello world!
+ * @author Arctic wolf
  */
 @RestController
 @SpringBootApplication
